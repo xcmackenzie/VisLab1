@@ -39,6 +39,7 @@ body {
 
 a:hover {
     color: black;
+    border-bottom: 1px solid black;
 }
 
 .image {
