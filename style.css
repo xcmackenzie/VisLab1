@@ -1,0 +1,46 @@
+body {
+    margin: 10px;
+    padding: 25px;
+    background-color: white;
+    color: darkslategray;
+}
+
+#generate {
+    background-color: maroon;
+    color: white;
+    border-color: maroon;
+}
+
+#container {
+    display: flex;
+}
+
+.column1 {
+    float: left;
+    width: 50%;
+    padding-right: 5px;
+}
+
+.column2 {
+    float: right;
+    width: 50%;
+    padding-left: 5px;
+}
+
+#content {
+    padding-top: 15px;
+}
+
+#content p {
+    background-color: whitesmoke;
+    border: 1px solid lightgray;
+    padding: 10px;
+}
+
+a:hover {
+    color: black;
+}
+
+.image {
+    padding: 10px;
+}
